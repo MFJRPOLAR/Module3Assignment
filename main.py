@@ -1,7 +1,7 @@
 from selectionsortingdecreasing import * 
 
 def main():
-    I = 0 
+    i = 0 
     first = 0 
     names = ['Emma', 'Brian', 'Evelyn', 'Franks', 'Alex', 'Felecia', 'Carl']
     grades = ['A','B','D','C','A','F','B']
